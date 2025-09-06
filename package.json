@@ -1,0 +1,18 @@
+{
+  "name": "chai-backend",
+  "version": "1.0.0",
+  "description": "Backend series with hitesh chai aur code ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend",
+    "javascript",
+    "node.js",
+    "rahim",
+    "chai"
+  ],
+  "author": "Rahim Sayyed",
+  "license": "ISC"
+}
