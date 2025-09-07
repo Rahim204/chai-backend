@@ -4,7 +4,7 @@
   "description": "Backend series with hitesh chai aur code ",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "start nodemon src/index.js"
   },
   "keywords": [
     "backend",
@@ -16,6 +16,7 @@
   "author": "Rahim Sayyed",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^3.1.10"
+    "nodemon": "^3.1.10",
+    "prettier": "^3.6.2"
   }
 }
